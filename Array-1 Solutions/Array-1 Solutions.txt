@@ -10,6 +10,7 @@
 
 
 =======================================
+
 firstLast6 **********
 
 
@@ -22,6 +23,7 @@ public boolean firstLast6(int[] nums) {
 }
 
 ======================================================
+
 sameFirstLast ********
 
 public boolean sameFirstLast(int[] nums) {
@@ -39,6 +41,7 @@ public boolean sameFirstLast(int[] nums) {
 
 
 ================================================
+
 makePi  **********
 
 
@@ -49,6 +52,7 @@ public int[] makePi() {
 
 
 ===================================================
+
 commonEnd **********
 
 
@@ -63,6 +67,7 @@ public boolean commonEnd(int[] a, int[] b) {
 
 
 ==============================================
+
  sum3 *******
 
 
@@ -74,6 +79,7 @@ public int sum3(int[] nums) {
 
 
 ===============================================
+
 rotateLeft3 ******
 
 public int[] rotateLeft3(int[] nums) {
